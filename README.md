@@ -26,11 +26,6 @@ I specialize in transforming raw data into actionable insights and building soli
 
 ---
 
-### GitHub Stats
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickMC22&show_icons=true&theme=radical)
-
----
-
 **Let's Connect:**
 - [LinkedIn](https://www.linkedin.com/in/erick-molina-croda-6579b5163/)
 - [Email](erickmolinacroda1234@gmail.com)
