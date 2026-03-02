@@ -27,7 +27,7 @@ I specialize in transforming raw data into actionable insights and building soli
 ---
 
 ### GitHub Stats
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickMC22&show_icons=true&theme=radical)
 
 ---
 
