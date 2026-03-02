@@ -1,29 +1,36 @@
-**Data Analyst & Backend Developer (Python/Django)** Apasionado por transformar datos crudos en decisiones inteligentes y arquitecturas sólidas. 
+# Hi there! I'm Erick Molina 
+
+**Data Analyst & Backend Developer (Python/Django)**
+I specialize in transforming raw data into actionable insights and building solid backend architectures. 
 
 ---
 
-### Lo que hago:
-- **Data Engineering & Management:** Diseño y administración de bases de datos híbridas (SQL & NoSQL - MongoDB).
-- **Data Analysis:** Limpieza, procesamiento y visualización de datos complejos (especialmente ambientales).
-- **Backend Development:** Construcción de lógica robusta con Python y Django, con enfoque en escalabilidad.
-- **Project Leadership:** Coordinación técnica de equipos y gestión de entregables bajo cronogramas estrictos.
+### What I Do:
+- **Data Engineering & Management:** Design and administration of hybrid database architectures (SQL & NoSQL - MongoDB).
+- **Data Analysis:** Expert in data cleaning, exploratory analysis (EDA), and creating interactive visualizations for complex datasets.
+- **Backend Development:** Building robust logic and REST APIs using Python and Django.
+- **Technical Leadership:** Experienced in coordinating tech teams, managing delivery timelines, and facilitating cross-functional communication.
 
-### Proyectos Destacados:
-- **[CityAir Logs](https://cityair-logs.mx/):** Coautor y encargado de la arquitectura de datos (SQL/NoSQL) y dashboards interactivos para el monitoreo de calidad del aire.
-- **Análisis de Datos Ambientales:** Proyecto de detección de patrones mediante técnicas de agrupamiento (Clustering) y visualización avanzada.
+### Featured Project:
+- **[CityAir Logs](https://cityair-logs.mx/):** Co-author and Lead Data Architect. I designed the SQL/NoSQL infrastructure and developed interactive dashboards for environmental air quality monitoring.
 
-### Mi Stack Técnico:
-- **Lenguajes:** Python (Pandas, Numpy, Matplotlib), SQL (PostgreSQL, MySQL).
+### Technical Stack:
+- **Languages:** Python (Pandas, Numpy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL).
 - **Frameworks:** Django, Django REST Framework.
-- **Bases de Datos:** MongoDB, PostgreSQL.
-- **Herramientas:** Docker, Git/GitHub, Documentación Técnica.
+- **Databases:** MongoDB, PostgreSQL, MySQL.
+- **Tools:** Docker, Git/GitHub, Technical Documentation.
 
-### Experiencia Bilingüe:
-- Inglés Intermedio-Avanzado (B2+).
-- Experiencia de trabajo presencial en entornos bilingües (EE. UU.) durante 3 veranos.
+### Bilingual Experience:
+- **English:** Intermediate-Advanced (B2+). 
+- **Hands-on Experience:** 3+ seasons of on-site work experience in the United States, effectively communicating in fast-paced environments.
 
 ---
 
-**¿Quieres contactarme?**
+### GitHub Stats
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+
+---
+
+**Let's Connect:**
 - [LinkedIn](https://www.linkedin.com/in/erick-molina-croda-6579b5163/)
 - [Email](erickmolinacroda1234@gmail.com)
