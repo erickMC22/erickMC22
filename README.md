@@ -25,5 +25,5 @@
 ---
 
 📫 **¿Quieres contactarme?**
-- [LinkedIn](TU_LINK_AQUI)
-- [Email](TU_EMAIL_AQUI)
+- [LinkedIn](https://www.linkedin.com/in/erick-molina-croda-6579b5163/)
+- [Email](erickmolinacroda1234@gmail.com)
